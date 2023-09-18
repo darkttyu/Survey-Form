@@ -1,3 +1,4 @@
+
 # Git Trek: The Version Control Voyage
 
 ## Objective
@@ -53,3 +54,6 @@ git commit -m "commit message"
 git push origin branch-name
 ```
 
+=======
+# try
+>>>>>>> 5a19d718a92a0668f1fa0ab28de5e97f54b56d46
