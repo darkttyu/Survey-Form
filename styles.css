@@ -1,0 +1,43 @@
+body {
+    background-image: url("background.jpg");
+    background-color: rgba(128,0,128,0.5);
+    background-blend-mode: overlay;
+}
+
+#survey-form {
+    text-align: left;
+    background: rgba(0,0,0,.75);
+    color: white;
+    margin: 0 50px 0 175px;
+    padding-bottom: 25px;
+    width: 60%;
+}
+
+#title {
+    font-family: Arial;
+    text-align: center;
+    color: white;
+}
+
+#description {
+    text-align: center;
+    font-family: serif;
+    font-style: italic;
+    color: aliceblue;
+}
+
+.check {
+    color: white;
+}
+
+#submit {
+    background-color: rgb(79, 174, 79);
+    color: rgb(237, 232, 232);
+    border: none;
+    height: 30px;
+    width: 375px;
+}
+
+#submit {
+    margin-left: 50px;
+}
